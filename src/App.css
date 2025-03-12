@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    width: 350px;
+    border-radius: 10px;
+    background: #fff;
+  }
+  
+  .btn {
+    width: 120px;
+  }
+  
+  .bmi-result {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .bmi-message {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  input {
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
